@@ -1,12 +1,13 @@
 #-----------------------------------------------------------
-# Vivado v2019.1 (64-bit)
-# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
-# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Thu Feb 23 12:48:39 2023
-# Process ID: 16076
-# Current directory: C:/Users/Frank Andes/VivadoProjects/DSD2-HW5/DSD2-HW5.runs/synth_1
-# Command line: vivado.exe -log Hw5Q1SelectedSignalSoln.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Hw5Q1SelectedSignalSoln.tcl
-# Log file: C:/Users/Frank Andes/VivadoProjects/DSD2-HW5/DSD2-HW5.runs/synth_1/Hw5Q1SelectedSignalSoln.vds
-# Journal file: C:/Users/Frank Andes/VivadoProjects/DSD2-HW5/DSD2-HW5.runs/synth_1\vivado.jou
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Feb 25 15:58:01 2023
+# Process ID: 1588
+# Current directory: E:/SchoolWork/VivadoProjects/DSD2-HW5/DSD2-HW5.runs/synth_1
+# Command line: vivado.exe -log Ex2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Ex2.tcl
+# Log file: E:/SchoolWork/VivadoProjects/DSD2-HW5/DSD2-HW5.runs/synth_1/Ex2.vds
+# Journal file: E:/SchoolWork/VivadoProjects/DSD2-HW5/DSD2-HW5.runs/synth_1\vivado.jou
+# Running On: DESKTOP-OK3HDTO, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 10, Host memory: 17069 MB
 #-----------------------------------------------------------
-source Hw5Q1SelectedSignalSoln.tcl -notrace
+source Ex2.tcl -notrace

@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Frank Andes/VivadoProjects/DSD2-HW5/DSD2-HW5.srcs/sources_1/new/Hw5Q1SelectedSignalSoln.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Hw5Q1SelectedSignalSoln'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Frank Andes/VivadoProjects/DSD2-HW5/DSD2-HW5.srcs/sim_1/new/Hw5Q1SelectedSignalSolnTB.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Hw5Q1SelectedSignalSolnTB'

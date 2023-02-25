@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Error: error in result. dout is 0F and should be = FE
+Time: 30 ns  Iteration: 0  Process: /Hw5Q3memTB/stimuli  File: E:/SchoolWork/VivadoProjects/DSD2-HW5/DSD2-HW5.srcs/sim_1/new/Hw5Q3memTB.vhd
+Error: error in result. dout is 01 and should be = FE
+Time: 50 ns  Iteration: 0  Process: /Hw5Q3memTB/stimuli  File: E:/SchoolWork/VivadoProjects/DSD2-HW5/DSD2-HW5.srcs/sim_1/new/Hw5Q3memTB.vhd

@@ -1,16 +1,7 @@
-Vivado Simulator 2019.1
-Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 099cfc5e001e4a46bfddfaf99d6fd0dd --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Hw5Q1SelectedSignalSolnTB_behav xil_defaultlib.Hw5Q1SelectedSignalSolnTB -log elaborate.log 
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: F:/Vitis/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Hw5Q3memTB_behav xil_defaultlib.Hw5Q3memTB -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
-Starting simulation data flow analysis
-Completed simulation data flow analysis
-Time Resolution for simulation is 1ps
-Compiling package std.standard
-Compiling package std.textio
-Compiling package ieee.std_logic_1164
-Compiling package ieee.numeric_std
-Compiling architecture behave of entity xil_defaultlib.Hw5Q1SelectedSignalSoln [hw5q1selectedsignalsoln_default]
-Compiling architecture tb of entity xil_defaultlib.hw5q1selectedsignalsolntb
-Built simulation snapshot Hw5Q1SelectedSignalSolnTB_behav
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
